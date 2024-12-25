@@ -1,0 +1,14 @@
+C:\Projects\RahamSamCodeChallenge\obj\Debug\net8.0\RahamSamCodeChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\RahamSamCodeChallenge\obj\Debug\net8.0\RahamSamCodeChallenge.AssemblyInfoInputs.cache
+C:\Projects\RahamSamCodeChallenge\obj\Debug\net8.0\RahamSamCodeChallenge.AssemblyInfo.cs
+C:\Projects\RahamSamCodeChallenge\obj\Debug\net8.0\RahamSamCodeChallenge.csproj.CoreCompileInputs.cache
+C:\Projects\RahamSamCodeChallenge\bin\Debug\net8.0\RahamSamCodeChallenge.exe
+C:\Projects\RahamSamCodeChallenge\bin\Debug\net8.0\RahamSamCodeChallenge.deps.json
+C:\Projects\RahamSamCodeChallenge\bin\Debug\net8.0\RahamSamCodeChallenge.runtimeconfig.json
+C:\Projects\RahamSamCodeChallenge\bin\Debug\net8.0\RahamSamCodeChallenge.dll
+C:\Projects\RahamSamCodeChallenge\bin\Debug\net8.0\RahamSamCodeChallenge.pdb
+C:\Projects\RahamSamCodeChallenge\obj\Debug\net8.0\RahamSamCodeChallenge.dll
+C:\Projects\RahamSamCodeChallenge\obj\Debug\net8.0\refint\RahamSamCodeChallenge.dll
+C:\Projects\RahamSamCodeChallenge\obj\Debug\net8.0\RahamSamCodeChallenge.pdb
+C:\Projects\RahamSamCodeChallenge\obj\Debug\net8.0\RahamSamCodeChallenge.genruntimeconfig.cache
+C:\Projects\RahamSamCodeChallenge\obj\Debug\net8.0\ref\RahamSamCodeChallenge.dll
